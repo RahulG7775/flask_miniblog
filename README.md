@@ -9,7 +9,7 @@
 
 
 ## Introduction
-MiniBlog is a simple, lightweight blogging platform that allows users to create, edit, and view blog posts. This is simple project to creat
+MiniBlog is a simple, lightweight blogging platform that allows users to create, edit, and view blog posts. This is simple project to create blog using CRUD API.
 
 ## Features
 - User authentication (sign up, log in, log out)
