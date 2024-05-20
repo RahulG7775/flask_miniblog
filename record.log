@@ -1,0 +1,252 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-996-317
+INFO:werkzeug: * Detected change in 'C:\\Flask_Project\\flaskblog\\users\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-996-317
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:47] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:47] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:47] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:47] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:47] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:52] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:46:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Flask_Project\\flaskblog\\users\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-996-317
+INFO:werkzeug: * Detected change in 'C:\\Flask_Project\\flaskblog\\users\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-996-317
+INFO:werkzeug: * Detected change in 'C:\\Flask_Project\\flaskblog\\users\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-996-317
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:54] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:54] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+INFO:flaskblog:admin logged in successfully
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/May/2024 10:48:59] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Flask_Project\\run.py', reloading
+[2024-05-16 11:05:29,951] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-05-16 11:05:29,951] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-16 11:05:29,952] INFO in _internal:  * Restarting with stat
+[2024-05-16 11:05:30,749] WARNING in _internal:  * Debugger is active!
+[2024-05-16 11:05:30,754] INFO in _internal:  * Debugger PIN: 260-996-317
+[2024-05-16 11:05:46,938] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+[2024-05-16 11:05:46,969] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:05:46,985] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:46,986] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:46,987] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:46,996] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:46] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:47,762] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:47] "GET /login HTTP/1.1" 200 -
+[2024-05-16 11:05:47,786] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:47] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:47,803] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:47] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:53,483] INFO in routes: admin logged in successfully
+[2024-05-16 11:05:53,484] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "[32mPOST /login HTTP/1.1[0m" 302 -
+[2024-05-16 11:05:53,494] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:05:53,521] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:53,525] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:53,527] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:05:53,536] INFO in _internal: 127.0.0.1 - - [16/May/2024 11:05:53] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:08:48,929] INFO in _internal:  * Detected change in 'C:\\Flask_Project\\run.py', reloading
+[2024-05-16 11:08:48,985] INFO in _internal:  * Restarting with stat
+[2024-05-16 11:08:49,762] WARNING:  * Debugger is active!
+[2024-05-16 11:08:49,767] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 11:41:25,981] INFO:  * Detected change in 'C:\\Flask_Project\\run.py', reloading
+[2024-05-16 11:41:26,034] INFO in _internal:  * Restarting with stat
+[2024-05-16 11:57:10,540] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-05-16 11:57:10,540] INFO: [33mPress CTRL+C to quit[0m
+[2024-05-16 11:57:10,543] INFO:  * Restarting with stat
+[2024-05-16 11:57:11,772] WARNING:  * Debugger is active!
+[2024-05-16 11:57:11,808] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 11:57:17,652] INFO: 127.0.0.1 - - [16/May/2024 11:57:17] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:57:17,700] INFO: 127.0.0.1 - - [16/May/2024 11:57:17] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:17,702] INFO: 127.0.0.1 - - [16/May/2024 11:57:17] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:17,715] INFO: 127.0.0.1 - - [16/May/2024 11:57:17] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:17,728] INFO: 127.0.0.1 - - [16/May/2024 11:57:17] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:18,466] INFO: 127.0.0.1 - - [16/May/2024 11:57:18] "GET /about HTTP/1.1" 200 -
+[2024-05-16 11:57:18,497] INFO: 127.0.0.1 - - [16/May/2024 11:57:18] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:18,512] INFO: 127.0.0.1 - - [16/May/2024 11:57:18] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,287] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:57:19,331] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,334] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,336] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,345] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,812] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "GET / HTTP/1.1" 200 -
+[2024-05-16 11:57:19,857] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,863] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,866] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:19,867] INFO: 127.0.0.1 - - [16/May/2024 11:57:19] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:21,693] INFO: 127.0.0.1 - - [16/May/2024 11:57:21] "GET /about HTTP/1.1" 200 -
+[2024-05-16 11:57:21,729] INFO: 127.0.0.1 - - [16/May/2024 11:57:21] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:21,747] INFO: 127.0.0.1 - - [16/May/2024 11:57:21] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:22,286] INFO: 127.0.0.1 - - [16/May/2024 11:57:22] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:57:22,316] INFO: 127.0.0.1 - - [16/May/2024 11:57:22] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:22,324] INFO: 127.0.0.1 - - [16/May/2024 11:57:22] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:22,325] INFO: 127.0.0.1 - - [16/May/2024 11:57:22] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:22,336] INFO: 127.0.0.1 - - [16/May/2024 11:57:22] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:23,215] INFO: 127.0.0.1 - - [16/May/2024 11:57:23] "GET / HTTP/1.1" 200 -
+[2024-05-16 11:57:23,254] INFO: 127.0.0.1 - - [16/May/2024 11:57:23] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:23,260] INFO: 127.0.0.1 - - [16/May/2024 11:57:23] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:23,262] INFO: 127.0.0.1 - - [16/May/2024 11:57:23] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:23,274] INFO: 127.0.0.1 - - [16/May/2024 11:57:23] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:24,439] INFO: 127.0.0.1 - - [16/May/2024 11:57:24] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:57:24,473] INFO: 127.0.0.1 - - [16/May/2024 11:57:24] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:24,475] INFO: 127.0.0.1 - - [16/May/2024 11:57:24] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:24,481] INFO: 127.0.0.1 - - [16/May/2024 11:57:24] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:24,490] INFO: 127.0.0.1 - - [16/May/2024 11:57:24] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:56,233] INFO: 127.0.0.1 - - [16/May/2024 11:57:56] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:57:56,266] INFO: 127.0.0.1 - - [16/May/2024 11:57:56] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:56,267] INFO: 127.0.0.1 - - [16/May/2024 11:57:56] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:56,273] INFO: 127.0.0.1 - - [16/May/2024 11:57:56] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:57:56,281] INFO: 127.0.0.1 - - [16/May/2024 11:57:56] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 11:58:20,783] INFO: 127.0.0.1 - - [16/May/2024 11:58:20] "GET /home HTTP/1.1" 200 -
+[2024-05-16 11:58:20,821] INFO: 127.0.0.1 - - [16/May/2024 11:58:20] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-16 11:58:20,822] INFO: 127.0.0.1 - - [16/May/2024 11:58:20] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-16 11:58:20,823] INFO: 127.0.0.1 - - [16/May/2024 11:58:20] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-16 11:58:20,841] INFO: 127.0.0.1 - - [16/May/2024 11:58:20] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-16 13:42:39,412] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:42:39,491] INFO:  * Restarting with stat
+[2024-05-16 13:42:41,521] WARNING:  * Debugger is active!
+[2024-05-16 13:42:41,543] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:43:06,616] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:43:06,702] INFO:  * Restarting with stat
+[2024-05-16 13:43:07,548] WARNING:  * Debugger is active!
+[2024-05-16 13:43:07,553] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:43:15,970] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:43:16,044] INFO:  * Restarting with stat
+[2024-05-16 13:43:16,898] WARNING:  * Debugger is active!
+[2024-05-16 13:43:16,903] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:43:37,160] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:43:37,223] INFO:  * Restarting with stat
+[2024-05-16 13:43:38,047] WARNING:  * Debugger is active!
+[2024-05-16 13:43:38,054] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:43:51,238] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:43:51,296] INFO:  * Restarting with stat
+[2024-05-16 13:43:52,144] WARNING:  * Debugger is active!
+[2024-05-16 13:43:52,153] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:44:03,096] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:44:03,166] INFO:  * Restarting with stat
+[2024-05-16 13:44:04,019] WARNING:  * Debugger is active!
+[2024-05-16 13:44:04,024] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:44:32,445] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:44:32,530] INFO:  * Restarting with stat
+[2024-05-16 13:44:33,406] WARNING:  * Debugger is active!
+[2024-05-16 13:44:33,410] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:45:15,069] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:45:15,131] INFO:  * Restarting with stat
+[2024-05-16 13:45:16,050] WARNING:  * Debugger is active!
+[2024-05-16 13:45:16,054] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:45:54,224] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:45:54,302] INFO:  * Restarting with stat
+[2024-05-16 13:45:55,284] WARNING:  * Debugger is active!
+[2024-05-16 13:45:55,289] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:52:50,098] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:52:50,167] INFO:  * Restarting with stat
+[2024-05-16 13:52:51,071] WARNING:  * Debugger is active!
+[2024-05-16 13:52:51,082] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:53:04,363] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:53:04,436] INFO:  * Restarting with stat
+[2024-05-16 13:53:05,294] WARNING:  * Debugger is active!
+[2024-05-16 13:53:05,300] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:53:55,906] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:53:55,967] INFO:  * Restarting with stat
+[2024-05-16 13:53:56,768] WARNING:  * Debugger is active!
+[2024-05-16 13:53:56,775] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 13:54:24,868] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 13:54:24,926] INFO:  * Restarting with stat
+[2024-05-16 13:54:25,785] WARNING:  * Debugger is active!
+[2024-05-16 13:54:25,793] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:00:31,959] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:00:32,034] INFO:  * Restarting with stat
+[2024-05-16 14:00:32,833] WARNING:  * Debugger is active!
+[2024-05-16 14:00:32,840] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:01:09,562] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:01:09,645] INFO:  * Restarting with stat
+[2024-05-16 14:01:10,495] WARNING:  * Debugger is active!
+[2024-05-16 14:01:10,503] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:01:28,419] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:01:28,494] INFO:  * Restarting with stat
+[2024-05-16 14:01:29,454] WARNING:  * Debugger is active!
+[2024-05-16 14:01:29,460] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:01:53,256] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:01:53,329] INFO:  * Restarting with stat
+[2024-05-16 14:01:54,245] WARNING:  * Debugger is active!
+[2024-05-16 14:01:54,251] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:04:48,796] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:04:48,857] INFO:  * Restarting with stat
+[2024-05-16 14:04:49,699] WARNING:  * Debugger is active!
+[2024-05-16 14:04:49,706] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:05:14,723] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:05:14,805] INFO:  * Restarting with stat
+[2024-05-16 14:05:15,688] WARNING:  * Debugger is active!
+[2024-05-16 14:05:15,693] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:06:13,298] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:06:13,358] INFO:  * Restarting with stat
+[2024-05-16 14:06:14,501] WARNING:  * Debugger is active!
+[2024-05-16 14:06:14,506] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:06:41,627] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:06:41,695] INFO:  * Restarting with stat
+[2024-05-16 14:06:42,567] WARNING:  * Debugger is active!
+[2024-05-16 14:06:42,572] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 14:06:54,519] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 14:06:54,586] INFO:  * Restarting with stat
+[2024-05-16 14:06:55,495] WARNING:  * Debugger is active!
+[2024-05-16 14:06:55,500] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 15:14:35,386] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 15:14:35,457] INFO:  * Restarting with stat
+[2024-05-16 15:14:37,304] WARNING:  * Debugger is active!
+[2024-05-16 15:14:37,324] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 15:19:31,602] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 15:19:31,664] INFO:  * Restarting with stat
+[2024-05-16 15:19:32,465] WARNING:  * Debugger is active!
+[2024-05-16 15:19:32,470] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 15:20:43,671] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 15:20:43,733] INFO:  * Restarting with stat
+[2024-05-16 15:20:44,583] WARNING:  * Debugger is active!
+[2024-05-16 15:20:44,590] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 15:20:54,181] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 15:20:54,239] INFO:  * Restarting with stat
+[2024-05-16 15:20:55,107] WARNING:  * Debugger is active!
+[2024-05-16 15:20:55,111] INFO:  * Debugger PIN: 260-996-317
+[2024-05-16 15:21:47,356] INFO:  * Detected change in 'C:\\Flask_Project\\test.py', reloading
+[2024-05-16 15:21:47,419] INFO:  * Restarting with stat
+[2024-05-16 15:21:48,216] WARNING:  * Debugger is active!
+[2024-05-16 15:21:48,222] INFO:  * Debugger PIN: 260-996-317
+[2024-05-17 11:57:43,370] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-05-17 11:57:43,370] INFO: [33mPress CTRL+C to quit[0m
+[2024-05-17 11:57:43,372] INFO:  * Restarting with stat
+[2024-05-17 11:57:44,106] WARNING:  * Debugger is active!
+[2024-05-17 11:57:44,126] INFO:  * Debugger PIN: 260-996-317
+[2024-05-17 12:40:45,797] INFO: 127.0.0.1 - - [17/May/2024 12:40:45] "GET /home HTTP/1.1" 200 -
+[2024-05-17 12:40:45,865] INFO: 127.0.0.1 - - [17/May/2024 12:40:45] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-17 12:40:45,883] INFO: 127.0.0.1 - - [17/May/2024 12:40:45] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-17 12:40:45,886] INFO: 127.0.0.1 - - [17/May/2024 12:40:45] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-17 12:40:45,917] INFO: 127.0.0.1 - - [17/May/2024 12:40:45] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-17 12:40:46,010] INFO: 127.0.0.1 - - [17/May/2024 12:40:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-17 12:41:29,809] INFO: 127.0.0.1 - - [17/May/2024 12:41:29] "GET /home HTTP/1.1" 200 -
+[2024-05-17 12:41:29,839] INFO: 127.0.0.1 - - [17/May/2024 12:41:29] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:29,844] INFO: 127.0.0.1 - - [17/May/2024 12:41:29] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:29,845] INFO: 127.0.0.1 - - [17/May/2024 12:41:29] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:29,858] INFO: 127.0.0.1 - - [17/May/2024 12:41:29] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:30,994] INFO: 127.0.0.1 - - [17/May/2024 12:41:30] "GET /about HTTP/1.1" 200 -
+[2024-05-17 12:41:31,020] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:31,042] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:31,719] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "GET / HTTP/1.1" 200 -
+[2024-05-17 12:41:31,748] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:31,765] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/profiles_pics/default.jpg HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:31,766] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/profiles_pics/admin.png HTTP/1.1[0m" 304 -
+[2024-05-17 12:41:31,767] INFO: 127.0.0.1 - - [17/May/2024 12:41:31] "[36mGET /static/blog2.avif HTTP/1.1[0m" 304 -
+[2024-05-17 12:47:41,449] INFO:  * Detected change in 'C:\\Flask_Project\\flaskblog\\users\\routes.py', reloading
+[2024-05-17 12:47:41,533] INFO:  * Restarting with stat
+[2024-05-17 12:47:42,411] WARNING:  * Debugger is active!
+[2024-05-17 12:47:42,417] INFO:  * Debugger PIN: 260-996-317
